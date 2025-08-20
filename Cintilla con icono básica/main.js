@@ -8,33 +8,11 @@
         es: {
             band: {
                 title: `Estás viajando <span class="alf1_1648_band_font_bold">sin equipaje</span> adicional. Añádelo y ahorra tiempo en el aeropuerto`
-            },
-            dropdown: {
-                title: "Conoce las  características de cada tipo de equipaje",
-                items: {
-                    personalArticle: `<span class='alf1_1648_band_font_bold'>Artículo personal (45 alto x 35 largo x 20 ancho cms):</span>  Ubícalo debajo del asiento delantero.`,
-                    handLuggage: `<span class='alf1_1648_band_font_bold'>Equipaje de mano (10kg):</span> Llévalo en la cabina del avión, en el compartimiento superior.`,
-                    holdLuggage: `<span class='alf1_1648_band_font_bold'>Equipaje de bodega (23kg):</span> Regístralo en el counter del aeropuerto antes de ir a la sala de abordaje.`
-                }
-            },
-            button: {
-                cta: "Viajar sin equipaje adicional"
             }
         },
         en: {
             band: {
                 title: `You’re traveling <span class="alf1_1648_band_font_bold">without additional</span> baggage. Add it now and save time at the airport`
-            },
-            dropdown: {
-                title: "Get to know the characteristics of each baggage type",
-                items: {
-                    personalArticle: `<span class='alf1_1648_band_font_bold'>Personal item (45 high x 35 long x 20 wide cm):</span> Place it under the seat in front of you.`,
-                    handLuggage: `<span class='alf1_1648_band_font_bold'>Carry-on baggage (10 kg):</span> Take it into the aircraft and place it in the overhead compartment.`,
-                    holdLuggage: `<span class='alf1_1648_band_font_bold'>Checked baggage (23 kg):</span> Check it in at the airport counter before proceeding to the boarding gate.`
-                }
-            },
-            button: {
-                cta: "Travel without additional baggage"
             }
         }
     }
