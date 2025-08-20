@@ -1,0 +1,19 @@
+URl JIRA: https://aviancaecommerce.atlassian.net/browse/ALF1-1648
+
+GENERAL TARIFAS BASIC Y LIGHT 
+
+* Se mostrará una alerta naranja con el siguiente mensaje: “Estás viajando sin equipaje adicional. 
+Añádelo y ahorra tiempo en el aeropuerto.”
+* Deberá aparecer un desplegable informativo en la parte inferior (junto al botón) 
+que contiene las características de cada tipo de equipaje 
+y aparecerá abierto por defecto.
+* Si el usuario no selecciona equipaje adicional, 
+el botón CTA será de tipo secundario y 
+mostrará el texto: “Viajar sin equipaje adicional”
+
+
+PARA TARIFAS BASIC
+
+* Si se agrega cualquier equipaje (de mano o de bodega) 
+
+TARIFAS CLASICC Y FLEX
