@@ -6,4 +6,4 @@ Este repositorio contiene una colección de componentes utilizados por el equipo
 
 El objetivo de este repositorio es centralizar y facilitar el desarrollo, mantenimiento y expansión de los componentes utilizados para las pruebas y personalización de la página de Avianca. A medida que el equipo avanza con nuevas funcionalidades y elementos, estos se irán añadiendo al repositorio
 
-- **Avianca Team**-**Los evolutivos**
+- **Los evolutivos - Avianca**
